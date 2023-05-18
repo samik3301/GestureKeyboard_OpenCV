@@ -60,7 +60,7 @@ while True:
     #cv2.rectangle(img,(100,100),(200,200),(255,0,255),cv2.FILLED)
     #cv2.putText(img,"Q",(120,175),cv2.FONT_HERSHEY_PLAIN,5,(255,255,255),5)
 
-    #img  = myButton.draw(img)
+    #img  = myButton.draw(img) 
     
     #testing
     '''
